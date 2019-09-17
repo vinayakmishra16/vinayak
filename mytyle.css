@@ -1,0 +1,30 @@
+.p1
+{	float:left;
+	background-color:yellow;
+	padding:55px;
+	width:550px;
+	margin:10px;
+	height:400px;
+	
+	
+	
+	
+	
+}
+.p2
+{
+
+	float:right;
+	background-color:gray;
+	text-align:right-side;
+	padding:20;
+	
+}
+
+.p3{
+	float:left;
+	background-color:green;
+	width:550px;
+	padding:30px;
+	
+}
